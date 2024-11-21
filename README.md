@@ -1,0 +1,1 @@
+# Android-FrameWork-HAL-Note
